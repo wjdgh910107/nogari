@@ -8,4 +8,4 @@
 - Maven
 - AWS 배포
 - Git
-- eclipse 23.12
+- eclipse 4.24(2022-06)
